@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(213, 255, 130);
+}
+img{
+    width: 100%;
+}
+.content{
+    margin: auto;
+    text-align: center;
+    
+}
+
+.nam>h1,.nam>h3{
+    font-size: 150%;
+}
+.nam>h1{color: yellow;}
+.nam>h3{color: red; float: right;}
+/* button */
+.button{
+    clear: both;
+}
+input[type=button]{
+    width: 19.5%;
+    color: blue;
+    background-color: rgb(172, 227, 61);
+    border-radius: 5px;
+    padding: 5px 5px;
+}
+/* body */
+p,h3{
+    color: blue;
+    font-size: 150%;
+}
+span{
+    color: blueviolet;
+    font-size: 100%;
+    font-family: 'Kh Baphnom 010 TeakPiseth';
+}

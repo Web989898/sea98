@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(213, 255, 130);
+}
+img{
+    width: 100%;
+}
+.content{
+    margin: auto;
+    text-align: center;
+
+}
+
+.nam>h1,.nam>h3{
+    font-size: 150%;
+}
+.nam>h1{color: rgb(123, 123, 5);}
+.nam>h3{color: red;}
+
+/* button */
+.button{
+    clear: both;
+}
+input[type=button]{
+    width: 19.5%;
+    color: blue;
+    background-color: rgb(172, 227, 61);
+    border-radius: 5px;
+    padding: 5px 5px;
+}
+
+/* body */
+
+    /* map */
+.img_map{
+    margin: auto;
+}
+.img_map>img{
+    width: 900px;
+    height: 717px;
+    border: 1px solid blue;
+    margin: auto;
+}
+    /* map */

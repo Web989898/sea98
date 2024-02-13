@@ -1,0 +1,36 @@
+body{
+    margin: auto;
+}
+.a-1{float: left;}
+.a-2{float: right;}
+input[type=button]{
+    padding: 10px;
+    color: blue;
+    background-color: rgb(172, 227, 61);
+    border-radius: 5px;
+    width: 100px;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.header{
+    margin: auto;
+}
+h1{text-align: center; font-family: 'Kh Ang Komutt B';}
+
+.body{margin: auto;}
+
+table{
+   border-collapse: collapse; 
+   padding: 5px 5px;
+   margin: auto;
+}
+th,td{
+    padding: 5px 5px;
+    font-family: 'Khmer os Battambang';
+}
+
+ul{
+    font-family: 'khmer os battambang';
+}
+h3{font-family: 'khmer os battambang';}

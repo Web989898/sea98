@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(213, 255, 130);
+}
+img{
+    width: 100%;
+}
+.content{
+    margin: auto;
+    text-align: center;
+    
+}
+
+.nam>h1,.nam>h3{
+    font-size: 150%;
+}
+.nam>h1{color: rgb(123, 123, 5);}
+.nam>h3{color: red; float: left;}
+
+/* button */
+.button{
+    clear: both;
+}
+input[type=button]{
+    width: 19.5%;
+    color: blue;
+    background-color: rgb(172, 227, 61);
+    border-radius: 5px;
+    padding: 5px 5px;
+}
+/* body */
+.body{
+    margin: auto;
+}
+h3{
+    font-size: 130%;
+}
+.btb_1>img,.btb_2>img{
+    width: 40%;
+}
+    /* img1 */
+.btb_1{
+    display: flex;
+    flex-wrap: nowrap;
+    text-align: left;
+}
+.btb_1>p{
+    color: blue;
+    margin-left: 10px;
+    width: 60%;
+    font-size: 130%;
+}
+    /* img2 */
+.btb_2{
+    display: flex;
+    flex-wrap: nowrap;
+    text-align: left;
+}
+.btb_2>p{
+    color: brown;
+    margin-left: 10px;
+    width: 60%;
+    font-size: 130%;
+}
+
+/* body */
